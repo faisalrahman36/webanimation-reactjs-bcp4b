@@ -4,6 +4,8 @@ import './App.css';
 function About() {
   return (
     <div className="App">
+
+        Just a demo about page.
           </div>
   );
 }

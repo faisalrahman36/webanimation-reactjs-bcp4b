@@ -13,7 +13,7 @@ export default function App() {
   return (
     <Router>
     <nav className="Nav" >
-    <Link to="/"> <img className= "linkmut" src="https://mutify.app/images/mutify-logo-6ab64e5ad7.png" /><p className="linkmut"> <strong>Mutify Demo </strong> </p> </Link>
+    <Link to="/"> <img className= "linkmut" alt="some alt" src="https://mutify.app/images/mutify-logo-6ab64e5ad7.png" /><p className="linkmut"> <strong>Mutify Demo </strong> </p> </Link>
 
       <Link to="/" className="NavLink">Home</Link>
       
